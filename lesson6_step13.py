@@ -29,7 +29,7 @@ try:
     button.click()
 
 finally:
-    # 
+    #ставим время задержки 30 секунд 
     time.sleep(30)
     # 
     browser.quit()

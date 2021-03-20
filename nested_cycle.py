@@ -30,7 +30,7 @@ for i in range(2, -1, -1):#обходим список по индексу с п
         print(a[i][j], end=' ')
     print()
 
-#сумма по каждой строки
+#сумма по каждой строчке
 for i in range(3):
     s = 0
     for j in range(4):

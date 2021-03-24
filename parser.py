@@ -1,6 +1,6 @@
 import requests
 import csv
-from fake_useragent import UserAgent
+from fake_useragent import UserAgent # присоединение фейк-юзерагент позволяет слелать запросы анонимными
 from bs4 import BeautifulSoup
 import os
 URL = "https://auto.ria.com/uk/car/opel/"

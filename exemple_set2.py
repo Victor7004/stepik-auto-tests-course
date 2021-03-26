@@ -13,3 +13,5 @@ print(b & d)
 #объединение множеств
 print(b | c)
 print(c.union(d))
+#задача нахождения пересичений двух множеств и вывода отсортированного результата
+print(*sorted(set(input().split()) & set(input().split())))

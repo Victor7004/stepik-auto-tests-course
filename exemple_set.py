@@ -5,7 +5,7 @@ b = {'hi', 'ha', 'hi', 'ha', 'hi', 'ho', 'hi', 'ho',}
 print(b, type(b))
 c = set('abracadabra')
 print(c)
-d = set([1, 2, 3, 4])
+d = set([1, 2, 3, 4, 5])
 print(d)
 e = set(range(5))
 print(e)

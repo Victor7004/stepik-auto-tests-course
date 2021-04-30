@@ -6,5 +6,6 @@ for i in range(int(input())):
     else:
         d[a[0]] += int(a[1])
         
+        
 for key , value in sorted(d.items()):
     print(key, value)

@@ -1,6 +1,6 @@
 from selenium import webdriver
 from selenium.common.exceptions import NoAlertPresentException
-#from selenium.webdriver.common.by import By
+#from selenium.webdriver.common.by import By(импорт не нужен и закоментирован)
 import time
 import math
 

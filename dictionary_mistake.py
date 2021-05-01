@@ -1,4 +1,5 @@
 dictionary = set()
+#создаем два словаря
 dictionary_lower = set()
 for _ in range(int(input())):
     word = input()

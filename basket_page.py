@@ -2,7 +2,7 @@ from .locators import BasketPageLocators
 from .base_page import BasePage
 from selenium.webdriver.common.by import By
 import pytest
-
+#страница корзины
 class BasketPage(BasePage):
 
     def go_to_basket_page(self):

@@ -1,3 +1,4 @@
+# прога угадай число
 n = int(input())
 all_nums = set(range(1, n + 1))
 possible_nums = all_nums

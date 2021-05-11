@@ -1,3 +1,4 @@
+#импорт календаря на питоне
 import calendar
 import locale; locale.setlocale(category=locale.LC_ALL,locale="Russian_Russia.1251")
 cal=calendar.LocaleHTMLCalendar(firstweekday=0, locale='Russian_Russia.1251')

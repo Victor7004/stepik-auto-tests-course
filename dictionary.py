@@ -1,5 +1,5 @@
   
-# ???????. Dictionary. 
+#  Dictionary. 
 #Nataliya Sashniko
 #10
 #95UUSA4P3K 140YAZQF1W2

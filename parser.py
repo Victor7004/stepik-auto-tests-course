@@ -1,3 +1,4 @@
+#пример парсинга сайта "Aвторио"
 import requests
 import csv
 from fake_useragent import UserAgent # присоединение фейк-юзерагент позволяет слелать запросы анонимными;

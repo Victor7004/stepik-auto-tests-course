@@ -1,3 +1,4 @@
+//вычесляем фактериал через цикл for
 const factorial = (n) => {
   let result  = 1;
 

@@ -1,3 +1,4 @@
+//функция находящая наименьший делитель
 const smallestDivisor = (num) => {
   const iter = (counter, acc) => {
     if (counter === 1) {

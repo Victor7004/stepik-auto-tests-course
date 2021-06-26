@@ -1,6 +1,6 @@
 //функция находящая наименьший делитель
-const smallestDivisor = (num) => {
-  const iter = (counter, acc) => {
+const smallestDivisor = (num) => { //создаем функцию с названием
+  const iter = (counter, acc) => { // создаем новую переменную iter
     if (counter === 1) {
       return 1;
     }

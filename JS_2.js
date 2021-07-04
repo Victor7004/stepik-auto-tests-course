@@ -7,7 +7,7 @@ const smallestDivisor = (num) => { //создаем функцию с назва
       if (counter%acc===0) { // прописываем второе условие
           return acc; // если делится без остатка возвращаем делитель 
       }
-    return iter(counter,acc+1);
+    return iter(counter,acc+1);// увеличиваем счетчик на 1
   };
     return iter(num,2);
 };

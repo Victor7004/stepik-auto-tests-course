@@ -5,6 +5,6 @@ def comma(st):
         return st
     return comma(st[:-3]) + ',' + st[-3:]        
 print(comma(input()))
-#способ решения через функцию форматирования строк
+# второй способ решения через функцию форматирования строк
 n = int(input())
 print('{:,}'.format(n))

@@ -9,5 +9,5 @@ const smallestDivisor = (num) => { //создаем функцию с назва
       }
     return iter(counter,acc+1);// увеличиваем счетчик на 1
   };
-    return iter(num,2);
+    return iter(num,2);// возвращаем 
 };

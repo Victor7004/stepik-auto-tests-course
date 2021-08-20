@@ -2,7 +2,7 @@
 # put your python code here
 a = int(input())                     # Ввод данных и присвоение переменной a:   
 b = int(input())                     # Ввод данных и присвоение переменной b:
-print(a + b)                         # Cумма чисел a и b:
+print(a + b)                         # Cумма чисел a + b:
 print(a - b)                         # Разность чисел a и b:
 print(a * b)                         # Произведение чисел a и b:
 print(a / b)                         # Частное чисел a и b:
